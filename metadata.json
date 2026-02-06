@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GiftPoint - Premium Reseller",
+  "description": "A premium and striking mobile application for gift card resellers, featuring manual code management and advanced sales tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
